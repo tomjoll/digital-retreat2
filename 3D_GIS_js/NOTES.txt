@@ -1,0 +1,4 @@
+Caringorm 3d model - DOES NOT WORK IN CHROME - OPEN IN EXPLORER
+
+"3D image of OS tile NH90 (1:25 000 Scale Colour Raster map) made in QGIS using Qgis2threejs plugin and with 6x vertical exaggeration.
+© Crown Copyright and Database Right 2017. Ordnance Survey (Digimap Licence)"
